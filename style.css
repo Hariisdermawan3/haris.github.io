@@ -1,0 +1,16 @@
+
+
+.banner{
+    background: url("https://e0.pxfuel.com/wallpapers/329/765/desktop-wallpaper-web-design-dark-developer.jpg") no-repeat center center ;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 24%;
+    color: #ffff;
+    font-family: sans-serif;
+}
+#Portofolio{
+    padding-top: 100px;
+}
+#contact{
+    padding-top: 200px;
+}
